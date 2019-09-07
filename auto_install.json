@@ -1,0 +1,14 @@
+{	
+	"php_ext":"bcmath,ctype,json,mbstring,openssl,pdo,tokenizer,xml",			
+	"chmod":[
+				{"mode":774,"path":"/bootstrap"},
+				{"mode":774,"path":"/storage"}
+			],	
+	"success_url":"/",				
+	"php_versions":"71,72,73",	
+	"db_config":".env",	
+	"admin_username":"meedu@meedu.meedu",
+	"admin_password":"meedu123",
+	"run_path":"/public",
+	"remove_file":[]
+}
