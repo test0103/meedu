@@ -13,7 +13,7 @@ php artisan migrate
 php artisan install role
 
 # 初始化管理员
-php artisan install administrator
+php artisan install administrator --q
 
 # 初始化后台菜单
 php artisan install backend_menu
